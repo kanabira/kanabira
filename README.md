@@ -7,8 +7,8 @@
 Currently a university student majoring in Software Development :weary:. My workflow revolves around impulsive interests whether it'd be trying to come up with game environments in Gaea or learning LLM. I have been coding on and off for the past few years just for fun. 
 
 ## 🔗 Contacts 🔗
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&height=35)](https://discord.com/users/607530454819536899)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&height=35)](https://instagram.com/seo.wah)
+[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/607530454819536899)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seo.wah)
 
 ## 🔧 Languages 🔧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" />
