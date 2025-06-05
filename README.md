@@ -4,8 +4,12 @@ Currently a university student majoring in Software Development :weary:. My work
 
 <div align="center">
     :link: Contact me at: :link:
-    <li>Discord: kan.a</li>
-    <li>Instagram: seo.wah</li>
+    <a href="https://discordapp.com/users/607530454819536899" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    </a>
+    <a href="https://www.instagram.com/seo.wah/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    </a>
 </div>
 
 #
@@ -41,6 +45,6 @@ Currently a university student majoring in Software Development :weary:. My work
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/kanabira/kanabira/output/snake.svg" alt="Snake animation" />
 
 ###
