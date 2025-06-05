@@ -4,6 +4,7 @@ Currently a university student majoring in Software Development :weary:. My work
 
 <div align="center">
     :link: Contact me at: :link:
+    <br/>
     <a href="https://discordapp.com/users/607530454819536899" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
