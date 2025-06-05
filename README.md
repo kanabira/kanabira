@@ -32,7 +32,7 @@ Currently a university student majoring in Software Development :weary:. My work
 
 ###
 
-<img align="center" height="150" src="(https://i.imgur.com/Pgtklt3.gif)"  />
+<img align="center" height="150" src="https://imgur.com/a/hJ1fH4F"  />
 
 ###
 
