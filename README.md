@@ -2,9 +2,10 @@
 
 Currently a university student majoring in Software Development :weary:. My workflow revolves around impulsive interests whether it'd be trying to come up with game enviroments in Gaea or learning LLM. I have been coding on and off for the past few years just for fun. 
 
+###
+
 <div align="center">
-    #:link: Contact me at: :link:
-    <br/>
+    <h2>:link: Contact me at: :link:</h2>
     <a href="https://discordapp.com/users/607530454819536899" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
     </a>
@@ -13,6 +14,7 @@ Currently a university student majoring in Software Development :weary:. My work
     </a>
 </div>
 
+###
 
 ### :wrench: Languages
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
