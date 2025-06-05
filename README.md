@@ -1,7 +1,5 @@
 # :shipit: seowa
 
-#
-
 Currently a university student majoring in Software Development :weary:. My workflow revolves around impulsive interests whether it'd be trying to come up with game enviroments in Gaea or learning LLM. I have been coding on and off for the past few years just for fun. 
 
 :link: Contact me at: :link:
