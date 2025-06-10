@@ -7,7 +7,7 @@
 <table>
     <tr>
         <td colspan="2">
-            Currently a university student majoring in Software Development :weary:. My workflow revolves around impulsive interests whether it'd be trying to come up with game environments in Gaea or learning LLM. I have been coding on and off for the past few years just for fun.
+            Currently a university student majoring in Software Development :weary:. My workflow revolves around impulsive interests whether it'd be trying to come up with game environments in Gaea (would love to learn Blender and Unreal in the future when I have time) or learning LLM. I have been coding on and off for the past few years just for fun.
         </td>
     </tr>
     <tr>
@@ -27,6 +27,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg" width="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" />
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30" />
         </td>
     </tr>
